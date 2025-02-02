@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.swo
+*.swn
+node_modules/
+/*.log
+/coverage/
+.nyc_output/
+.idea/
+/.eslintcache
+/.pgbadger/
+/.repl-history
+.vscode
+/junit-reports/
