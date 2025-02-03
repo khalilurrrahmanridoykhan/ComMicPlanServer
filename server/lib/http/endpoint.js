@@ -13,7 +13,7 @@
 // `Promise`s, managing output `Stream`s, and handling errors.
 //
 // There are specialized versions of endpoint for OpenRosa and OData-related
-// actions.
+// actions.  Ridoy
 
 const { inspect } = require('util');
 const { pipeline } = require('stream');
